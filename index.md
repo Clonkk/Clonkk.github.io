@@ -1,4 +1,4 @@
-Hello World !
+Hi World
 ---------------
 
 * Is this working as intended ?
